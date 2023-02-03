@@ -1,4 +1,4 @@
 This is a project of a password menager server. 
-The idea is that klients can store their passwords in one place, so they have to remember only one password.
+The idea is that clients can store their passwords in one place, so they have to remember only one password.
 In the database all of the passwords that are stored are increpted, but what is most important server and database never have acces to real password.
 Future idea is to create frontend application where all the incryption take place. To provide maximum security password send from client to server is already incrypted.
